@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Mon CV</title>
+    </head>
+    <body>
+		<form action="/action_page.php">
+			<label for="fname">Prénom:</label><br>
+			<input type="text" id="fname" name="fname" value="lakshman"><br>
+			<label for="lname">Nom:</label><br>
+			<input type="text" id="lname" name="lname" value="Kaneshakumar"><br>
+			<label for="Dnaissance">Date de Naissance:</label><br>
+			<input type="text" id="Dnaissance" name="Dnaissance" value="17/03/2004"><br>
+			<label for="Email">Adresse Email perso</label><br>
+			<input type="text" id="Email" name="Email" value="lakshman.kaneshakumar@ism-antony.org"><br>
+		</form> 
+		<img src="Photoenjpg.jpg" alt="moi" width="175" height="190">
+		<h1>Ma scolarité au collège :</h1>
+		<img src="download.jpg" alt="mon collège"	  width="259" height="194">
+		<ul>
+			<li>6ème en 2015 </li>
+			<li>5ème en 2016 </li>
+			<li>4ème en 2017 </li>
+			<li>3ème en 2018 </li>
+		</ul>
+		<a href="https://www.saintemarieantony.fr/institution">https://www.saintemarieantony.fr/institution</a>
+		<h1>Ma scolarité au lycée :</h1>
+		<img src="lycée.jpg" alt="mon lycée" width="315" height="160">
+		<table style="width:10%">
+		<tr>
+			<td>Seconde</td>
+			<td>En 2019</td>
+		</tr>
+		<tr>
+			<td>Première</td>
+			<td>En 2020</td>
+		</tr>
+		<tr>
+			<td>Terminale</td>
+			<td>En 2021</td>
+		</tr>
+		</table>
+		<a href="https://www.saintemarieantony.fr/institution">https://www.saintemarieantony.fr/institution</a>
+		<h2>Mes compétences informatiques :</h2>
+			Spécialité NSI(numérique et science informatique)
+		<h2>Les études ou métier que j'envisage:</h2>
+	</body>
+</html>	
