@@ -1,0 +1,93 @@
+.titre
+{
+    text-align: center;
+    border: 1px solid black;
+	margin: 10px 600px 10px;
+}
+
+.prénom
+{
+	position: relative;
+	left: 200px;
+	left: 200px;
+}
+
+.prénom2
+{
+	position: relative;
+	left: 55px;
+}
+
+.moi
+{
+	float:right;
+}
+
+.sstitre
+{
+	text-align:left;
+	border: 1px solid lightblue;
+	margin: 10px 1225px 10px 5px;
+	position:relative;
+	left:10px;
+	background-color:lightblue;
+	color:blue;
+}
+	
+.collège
+{
+	position:relative;
+	left:650px;
+}
+
+.college
+{
+	border: 2px solid blue;
+	background-color:lightblue;
+	border-radius: 30px;
+}
+
+.lien
+{
+	position: relative;
+	left:640px;
+	
+}
+
+.sstitre2
+{
+	text-align:left;
+	border: 1px solid lightgreen;
+	margin: 10px 1225px 10px 5px;
+	position:relative;
+	left:10px;
+	background-color:lightgreen;
+	color:green;
+}
+
+.lycée
+{
+	position:relative;
+	left:625px;
+}
+	
+.table, td
+{
+	border:1px solid black;
+}
+
+.tableau
+{
+  width: 100%;
+  border-collapse: collapse;
+  position: relative;
+  left:10px;
+  bottom:5px;
+}
+
+.lycee
+{
+	border: 2px solid blue;
+	background-color:SlateBlue;
+	border-radius: 30px;
+}
